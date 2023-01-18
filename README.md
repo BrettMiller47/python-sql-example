@@ -2,7 +2,7 @@
 
 A python script for CRUD operations on an example SQL database.
 
-[./preview.mp4](./preview.mp4)
+![./preview.mp4](./preview.mp4)
 
 ## How to use
 
