@@ -2,7 +2,7 @@
 
 A python script for CRUD operations on an example SQL database.
 
-[Preview](./py-sql.png)
+[Preview](/py-sql.png)
 
 ## How to use
 
